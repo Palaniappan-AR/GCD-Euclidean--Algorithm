@@ -6,8 +6,8 @@ GCD of two numbers is the largest number that divides both of them. A simple way
 
 EX:
 
-36=2x2x3x3
-60=2x2x3x5
+->36=2x2x3x3
+->60=2x2x3x5
 
 GCD=Multiplication of common factors
    =2x2x3
