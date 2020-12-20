@@ -6,11 +6,11 @@ GCD of two numbers is the largest number that divides both of them. A simple way
 
 EX:
 
-36=2*2*3*3
-60=2*2*3*5
+36=2x2x3x3
+60=2x2x3x5
 
 GCD=Multiplication of common factors
-   =2*2*3
+   =2x2x3
    =12
 
 Basic Euclidean Algorithm for GCD:
